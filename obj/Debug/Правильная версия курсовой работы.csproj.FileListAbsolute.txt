@@ -1,0 +1,70 @@
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\bin\Debug\Правильная версия курсовой работы.exe.config
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\bin\Debug\Правильная версия курсовой работы.exe
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\bin\Debug\Правильная версия курсовой работы.pdb
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\obj\Debug\Правильная версия курсовой работы.csproj.AssemblyReference.cache
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\obj\Debug\Правильная_версия_курсовой_работы.Properties.Resources.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\obj\Debug\Правильная версия курсовой работы.csproj.GenerateResource.cache
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\obj\Debug\Правильная версия курсовой работы.csproj.CoreCompileInputs.cache
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\obj\Debug\Правильная версия курсовой работы.exe
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\obj\Debug\Правильная версия курсовой работы.pdb
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.Designer.cs
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.xsc
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.xsd
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.xss
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\obj\Debug\Правильная_версия_курсовой_работы.MainForm.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\obj\Debug\Правильная_версия_курсовой_работы.RSForm.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\obj\Debug\Правильная_версия_курсовой_работы.QueryEdit.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная версия курсовой работы\obj\Debug\Правильная_версия_курсовой_работы.EditForm.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.Designer.cs
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.xsc
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.xsd
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.xss
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\bin\Debug\Правильная версия курсовой работы.exe.config
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\bin\Debug\Правильная версия курсовой работы.exe
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\bin\Debug\Правильная версия курсовой работы.pdb
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\obj\Debug\Правильная версия курсовой работы.csproj.AssemblyReference.cache
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\obj\Debug\Правильная_версия_курсовой_работы.EditForm.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\obj\Debug\Правильная_версия_курсовой_работы.MainForm.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\obj\Debug\Правильная_версия_курсовой_работы.Properties.Resources.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\obj\Debug\Правильная_версия_курсовой_работы.QueryEdit.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\obj\Debug\Правильная_версия_курсовой_работы.RSForm.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\obj\Debug\Правильная версия курсовой работы.csproj.GenerateResource.cache
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\obj\Debug\Правильная версия курсовой работы.csproj.CoreCompileInputs.cache
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\obj\Debug\Правильная версия курсовой работы.exe
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы\obj\Debug\Правильная версия курсовой работы.pdb
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.Designer.cs
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.xsc
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.xsd
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.xss
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\bin\Debug\Правильная версия курсовой работы.exe.config
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\bin\Debug\Правильная версия курсовой работы.exe
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\bin\Debug\Правильная версия курсовой работы.pdb
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\obj\Debug\Правильная версия курсовой работы.csproj.AssemblyReference.cache
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\obj\Debug\Правильная_версия_курсовой_работы.EditForm.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\obj\Debug\Правильная_версия_курсовой_работы.MainForm.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\obj\Debug\Правильная_версия_курсовой_работы.Properties.Resources.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\obj\Debug\Правильная_версия_курсовой_работы.QueryEdit.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\obj\Debug\Правильная_версия_курсовой_работы.RSForm.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\obj\Debug\Правильная версия курсовой работы.csproj.GenerateResource.cache
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\obj\Debug\Правильная версия курсовой работы.csproj.CoreCompileInputs.cache
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\obj\Debug\Правильная версия курсовой работы.exe
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Неправильная версия курсовой работы — копия\obj\Debug\Правильная версия курсовой работы.pdb
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.Designer.cs
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.xsc
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.xsd
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\bin\Debug\_All_Ukrainian_knightly_tournamentDataSet.xss
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\bin\Debug\Правильная версия курсовой работы.exe.config
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\bin\Debug\Правильная версия курсовой работы.exe
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\bin\Debug\Правильная версия курсовой работы.pdb
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\obj\Debug\Правильная версия курсовой работы.csproj.AssemblyReference.cache
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\obj\Debug\Правильная_версия_курсовой_работы.MainForm.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\obj\Debug\Правильная_версия_курсовой_работы.Properties.Resources.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\obj\Debug\Правильная_версия_курсовой_работы.QueryEdit.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\obj\Debug\Правильная_версия_курсовой_работы.RSForm.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\obj\Debug\Правильная версия курсовой работы.csproj.GenerateResource.cache
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\obj\Debug\Правильная версия курсовой работы.csproj.CoreCompileInputs.cache
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\obj\Debug\Правильная версия курсовой работы.exe
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\obj\Debug\Правильная версия курсовой работы.pdb
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\obj\Debug\Правильная_версия_курсовой_работы.Knight_CategoryEditForm.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\obj\Debug\Правильная_версия_курсовой_работы.Knight_EditForm.resources
+C:\Users\murin\OneDrive\Рабочий стол\Курсовая работа 2й курс\Правильная 14_12\obj\Debug\Правильная_версия_курсовой_работы.Add_Knight_CategoryForm.resources
